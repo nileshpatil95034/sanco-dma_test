@@ -3,7 +3,7 @@ name: Deploy CDK
 on:
   push:
     branches:
-      - main
+      - dev
 
 permissions:
   id-token: write
